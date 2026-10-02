@@ -1,0 +1,5 @@
+# Local data: browser login session and upload progress. Never commit these.
+.browser-profile/
+progress.json
+progress.json.tmp
+node_modules/
